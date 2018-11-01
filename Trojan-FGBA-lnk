@@ -1,0 +1,9 @@
+> Malicious IOCs:
+> Detected Timestamp: 2018-10-11 16:43:40.0 File Path: D:\ANDERSON 
+> (4GB).lnk
+> Signature: Trojan-FGBA!lnk
+> Event Description: Malware deleted
+> Detection Method: OAS
+> Affected Hosts:
+> Hostname: CO40B0340DFD13L
+> Infected by USB drive
