@@ -1,0 +1,8 @@
+Summary
+Trojan.LNK.Gen is a generic detection for maliciously modified shortcut files (file extension .LNK) that are designed to trick users into mistakenly launching a malicious file.
+
+Generic detections are broad patterns of code or behavior that are used by security software to identify programs or files. If you suspect the detected file was incorrectly identified, go to: Removal: Resolve a False Positive.
+
+Removal
+Automatic action
+Based on the settings of your F-Secure security product, it will either automatically delete, quarantine or rename the detected program or file, or ask you for a desired action.
